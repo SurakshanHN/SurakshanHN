@@ -45,56 +45,6 @@ struct developer {
 ---
 
 
-## 🖥️ Projects
-
-### 🛡️ [Ankurah — Real-Time Distress Detection](https://github.com/SurakshanHN/Ankurah)
-
-Gesture-based emergency alert system using **computer vision + distributed systems**
-
-* Mediapipe-based gesture detection
-* FastAPI backend with **real-time SSE alerts**
-* Multi-device architecture (edge + backend + dashboard)
-* Emergency notification integrations
-
-→ *Focus: Edge AI + real-time systems*
-
----
-
-### 🧠 [Yuktham — AI Codebase Auditor](https://github.com/SurakshanHN/Yuktham)
-
-Graph-based system for analyzing **deep code relationships**
-
-* GraphRAG architecture (Neo4j + LLMs)
-* Detects architectural risks & weak components
-* Designed for **structural reasoning**, not surface analysis
-
-→ *Focus: Systems thinking + large codebases*
-
----
-
-### 🎭 [Mebuku — AI Interview Integrity System](https://github.com/SurakshanHN/Mebuku)
-
-A system designed to **detect and prevent cheating in AI-based interviews**
-
-* Monitors behavioral and interaction patterns
-* Flags suspicious activity during interviews
-* Designed for **real-time integrity enforcement**
-
-→ *Focus: Applied AI + system monitoring*
-
----
-
-### 🧾 [GTD — CLI Task Manager](https://github.com/SurakshanHN/GTD)
-
-Minimal **terminal-first todo manager** built in Go
-
-* Fast CLI interface
-* Persistent storage
-* Clean modular design
-
-→ *Focus: Developer tools*
-
----
 
 ## 🧠 Current Execution Plan
 
