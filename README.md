@@ -1,12 +1,9 @@
 <div align="center">
 
-# SurakshanHN.core
-
-`[ booting... systems mindset initialized ]`
+# SurakshanHN
 
 </div>
 
----
 
 ## 🖥️ /proc/self/about
 
