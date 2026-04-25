@@ -52,10 +52,9 @@ struct developer {
 > preparing for meaningful open-source contributions
 ```
 
----
+
 
 <div align="center">
 
-`building from bits → systems → impact`
 
 </div>
