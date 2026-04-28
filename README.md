@@ -12,8 +12,7 @@ struct developer {
     char* name       = "Surakshan HN";
     char* role       = "B.Tech Student";
     char* focus      = "Systems Programming";
-    char* interests  = "OS, Compilers, Backend, Linux";
-    bool  cp_mode    = true;
+    char* interests  = "OS, Compilers, Linux";
 };
 ```
 
